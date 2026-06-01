@@ -1,6 +1,8 @@
 # RocketRAG: Teaching Llama 3.2 to Remember and Sound Human
 
----
+<p align="center">
+  <img src="images/main-image.png" alt="RocketRAG project overview" width="900">
+</p>
 
 ## Abstract
 
